@@ -1,0 +1,219 @@
+  @font-face {
+      font-family: "NeueHaasGroteskRegular";
+      src: url("assets/font/NeueHaasGroteskRegular.ttf") format("truetype");
+      font-weight: normal;
+      font-style: normal;
+  }
+
+  *, ::after, ::before {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+  }
+
+  html {
+      font-size: 56.25%;
+  }
+
+  body {
+      background: #FFFDF6;
+      font-family: NeueHaasGroteskRegular;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 30px;
+      line-height: 34px;
+      color: #574A2E;
+      font-size: 2rem;
+  }
+
+  .support {
+      margin: 0.75em;
+  }
+
+  h1.title {
+      font-family: Times, serif;
+      font-weight: normal;
+      font-size: 30px;
+      text-transform: uppercase;
+  }
+
+  h2.subtitle {
+      font-weight: normal;
+      text-transform: capitalize;
+      text-align: right;
+  }
+
+  h3.scenario {
+      font-family: Times, serif;
+      font-size: 2rem;
+      font-weight: normal;
+      text-transform: uppercase;
+      margin-bottom: 0px;
+  }
+
+  h4 {
+      font-family: Times, serif;
+      font-weight: normal;
+      text-transform: uppercase;
+  }
+
+  h5 {
+      text-transform: capitalize;
+      text-decoration: underline;
+  }
+
+  #clock {
+      font-size: 3rem;
+      color: #ED6532;
+  }
+
+  ::selection {
+      background: #ED6532;
+  }
+
+  a, a:visited {
+      color: inherit;
+      text-decoration: none;
+  }
+
+  a:hover, a:active {
+      color: #ED6532;
+      text-decoration: none;
+  }
+
+  a.time, a:hover.time {
+      text-transform: capitalize;
+      color: inherit;
+  }
+
+  a.time:active {
+      color: #ED6532;
+  }
+
+  img.star {
+      max-width: 15px;
+  }
+
+  img.star:hover {
+      transform: rotate(15deg);
+  }
+
+  a>span {
+      display: none;
+  }
+
+  a:hover>span {
+      display: inline;
+  }
+
+  ul.scenario, ul.tip {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+
+  li.scenario {
+      line-height: 1.1em;
+  }
+
+  li.tip {
+      line-height: 1.1em;
+      padding: 1.5em;
+      border-bottom: 1px solid #574A2E;
+  }
+
+  li.tip:only-child {
+      border-bottom: 0;
+  }
+
+  span.collapse {
+      display: none;
+  }
+
+  .protect-yourself-while-you {
+      display: flex;
+  }
+
+  .choose-your-adventure {
+      min-width: 30%;
+      height: 100vh;
+      flex-grow: 1;
+  }
+
+  .title {
+      display: flex;
+      margin-bottom: 1.5em;
+  }
+
+  .mask-on {
+      width: 50%;
+  }
+
+  .collapse {
+      background-color: #574A2E;
+      color: #FFFDF6;
+      cursor: help;
+      padding: 1rem;
+      width: 100%;
+      border: none;
+      outline: none;
+      border: 1px solid #574A2E;
+      font-size: 2rem;
+      text-transform: capitalize;
+      text-align: left;
+  }
+
+  /* .active, .collapse:hover {
+  } */
+
+  .collapse:after {
+      content: '＋'; /* full width plus sign */
+      font-size: 13px;
+      color: #FFFDF6;
+      float: right;
+      margin-left: 5px;
+  }
+
+  .active:after {
+      content: "–"; /* en dash */
+  }
+
+  .content {
+      padding: 0 1rem;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.2s ease-out;
+      border: 1px solid #574A2E;
+      margin-bottom: 2rem;
+  }
+
+
+  @media only screen and (max-width:500px) {
+
+    .protect-yourself-while-you {
+        display: block;
+    }
+
+    .choose-your-adventure {
+        height: auto;
+        margin-bottom: 3rem;
+    }
+
+    .title {
+        display: block;
+        margin-bottom: 5%;
+        text-align: left;
+    }
+
+    #clock {
+        display: none; 
+    }
+
+    h2.subtitle {
+        font-size: 30px;
+        line-height: 30px;
+        text-align: left;
+    }
+}
