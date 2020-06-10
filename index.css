@@ -5,6 +5,13 @@
       font-style: normal;
   }
 
+  @font-face {
+      font-family: "TINY";
+      src: url("assets/font/TINY5x3-140.otf") format("opentype");
+      font-weight: normal;
+      font-style: normal;
+  }
+
   *, ::after, ::before {
       padding: 0;
       margin: 0;
@@ -22,21 +29,32 @@
       font-family: NeueHaasGroteskRegular;
       font-style: normal;
       font-weight: 500;
-      font-size: 30px;
+      font-size: 28px;
       line-height: 34px;
       color: #574A2E;
       font-size: 2rem;
   }
 
   .support {
-      margin: 0.75em;
+      margin: 1em;
   }
 
   h1.title {
-      font-family: Times, serif;
-      font-weight: normal;
-      font-size: 30px;
-      text-transform: uppercase;
+    font-family: TINY;
+font-style: normal;
+font-weight: normal;
+font-size: 45px;
+line-height: 35px;
+/* identical to box height */
+
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ss03' on;
+
+color: #574A2E;
+/*      font-family: Times, serif;
+*/      font-weight: normal;
+/*      font-size: 30px;
+*/      text-transform: uppercase;
   }
 
   h2.subtitle {
@@ -57,7 +75,9 @@
       font-family: Times, serif;
       font-weight: normal;
       text-transform: uppercase;
-  }
+      font-size:0.9em;
+/*      padding-left: 1.5em;
+*/  }
 
   h5 {
       text-transform: capitalize;
@@ -108,6 +128,18 @@
       display: inline;
   }
 
+  .tip-container{
+      padding: 0.5em 0 1.5em 0;
+                  width:98%;
+                  margin-left:1%;
+  }
+
+.border-bottom{
+              border-bottom: 1px dashed #574A2E;
+                                width:98%;
+                  margin-left:1%;
+}
+
   ul.scenario, ul.tip {
       list-style-type: none;
       margin: 0;
@@ -115,13 +147,13 @@
   }
 
   li.scenario {
-      line-height: 1.1em;
+      line-height: 1.3em;
   }
 
   li.tip {
       line-height: 1.1em;
-      padding: 1.5em;
-      border-bottom: 1px solid #574A2E;
+      padding: 1em 0em 0em 0em;
+      margin: 0 0 0 0%;
   }
 
   li.tip:only-child {
@@ -145,6 +177,7 @@
   .title {
       display: flex;
       margin-bottom: 1.5em;
+      margin-top:.15em;
   }
 
   .mask-on {
@@ -190,7 +223,7 @@
   }
 
 
-  @media only screen and (max-width:500px) {
+  @media only screen and (max-width:800px) {
 
     .protect-yourself-while-you {
         display: block;
@@ -216,4 +249,11 @@
         line-height: 30px;
         text-align: left;
     }
+
+     .mask-on {
+      width: 100vw;
+  }
+  .title{
+    width:40%;
+  }
 }
