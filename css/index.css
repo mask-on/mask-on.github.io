@@ -34,8 +34,8 @@
       line-height: 34px;
       color: #574A2E;
       font-size: 1.8rem;
-      margin: 1em 1em 1em 1em;
-      height: 100vh;
+      margin: 1vh 1vw;
+      height: 98vh;
       overflow-y:hidden;
     display:flex;
     flex-direction:column;
@@ -56,7 +56,7 @@
       font-weight: 500;
       line-height: 34px;
       color: #FFFDF6;
-      margin: 1em;
+      margin: 1vh 1vw;
       height: 100vh;
       overflow: hidden;
   }
@@ -209,7 +209,7 @@
 
   li.tip {
       line-height: 1.1em;
-      padding: 1em 0em 0em 0em;
+      padding: 1vh 0em 0em 0em;
       margin: 0 0 0 0%;
   }
 
@@ -223,7 +223,7 @@
 
   .protect-yourself-while-you {
       display: flex;
-      margin-top: 10vh;
+      margin-top: 20vh;
       height:10vh;
 
   }
@@ -243,13 +243,13 @@
   .choose-your-adventure-left {
       min-width: 30%;
       position: fixed;
-      padding-top: 1%;
+      top:13vh;
   }
 
   .choose-your-adventure-right {
       height:90vh;
       overflow:auto;
-      margin: 1em 1em 0 15em;
+      margin: 0 1vw 0 20vw;
   }
 
 
@@ -386,8 +386,7 @@
       }
 
       .mobile-copy {
-          padding-top: 1em;
-          padding-bottom: 1em;
+          padding: 1vh 0 1vh 0;
       }
 
 

@@ -97,10 +97,10 @@ I'm returning from a protest.
 
 
 <div class="choose-your-adventure-right">
-  <div class="scroll">
+  <div class="scroll"  id="before" >
 <div class="tips">
 <!-- before -->
-  <a class="time" id="before" >before
+  <a class="time">before
 </a>
 
 
