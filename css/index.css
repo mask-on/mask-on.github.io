@@ -1,13 +1,13 @@
   @font-face {
       font-family: "NeueHaasGroteskRegular";
-      src: url("assets/font/NeueHaasGroteskRegular.ttf") format("truetype");
+      src: url("fonts/NeueHaasGroteskRegular.ttf") format("truetype");
       font-weight: normal;
       font-style: normal;
   }
 
   @font-face {
       font-family: "TINY";
-      src: url("assets/font/TINY5x3-140.otf") format("opentype");
+      src: url("fonts/TINY5x3-140.otf") format("opentype");
       font-weight: normal;
       font-style: normal;
   }
@@ -29,11 +29,44 @@
       font-family: NeueHaasGroteskRegular;
       font-style: normal;
       font-weight: 500;
-      font-size: 28px;
       line-height: 34px;
       color: #574A2E;
-      font-size: 2rem;
+      font-size: 1.8rem;
+      margin:0 1em 1em 1em;
   }
+
+  .about{
+    background: #574A2E;
+      font-family: NeueHaasGroteskRegular;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 34px;
+      color: #FFFDF6;
+      margin:1em;
+  }
+
+.about header{
+      background: #574A2E;
+
+}
+  .about h1.title,
+  .about footer{
+      color: #FFFDF6;
+  }
+
+  /* header */
+
+  header{
+    position: sticky;
+    top: 0;
+    left: 0;
+          background: #FFFDF6;
+  }
+
+  .mobile-nav{
+    padding-top:1em;
+  }
+
 
   .support {
       margin: 1em;
@@ -43,18 +76,19 @@
     font-family: TINY;
 font-style: normal;
 font-weight: normal;
-font-size: 45px;
+font-size: 4.75rem;
 line-height: 35px;
-/* identical to box height */
-
 text-transform: uppercase;
 font-feature-settings: 'pnum' on, 'lnum' on, 'ss03' on;
 
 color: #574A2E;
-/*      font-family: Times, serif;
-*/      font-weight: normal;
-/*      font-size: 30px;
-*/      text-transform: uppercase;
+font-weight: normal;
+text-transform: uppercase;
+  }
+
+   h1 a:hover, h1 a:active {
+      color: #ED6532;
+      text-decoration: none;
   }
 
   h2.subtitle {
@@ -87,6 +121,10 @@ color: #574A2E;
   #clock {
       font-size: 3rem;
       color: #ED6532;
+  }
+
+  .mobile-scenario{
+    display:none;
   }
 
   ::selection {
@@ -165,23 +203,51 @@ color: #574A2E;
   }
 
   .protect-yourself-while-you {
-      display: flex;
   }
 
-  .choose-your-adventure {
-      min-width: 30%;
-      height: 100vh;
-      flex-grow: 1;
+  .about-copy{
+    margin-top:10vh;
+    font-size: 1.25em;
   }
+
+
+
+  .choose-your-adventure-left {
+      position: -webkit-sticky;
+  position: sticky;
+  top: 12rem;
+  min-width:30%;
+  }
+
+  .space{
+/*    margin-top:15vh;
+*/  }
+
+    .choose-your-adventure-right{
+      margin-right:1em;
+margin-left: 30rem;
+ }
+
+
 
   .title {
       display: flex;
-      margin-bottom: 1.5em;
       margin-top:.15em;
   }
 
   .mask-on {
       width: 50%;
+  }
+
+  .flex-row{
+    display:flex;
+    align-items:flex-start;
+  }
+
+
+  .advisory-svg{
+    width: 1vw;
+    margin-right: 2vw;
   }
 
   .collapse {
@@ -222,12 +288,83 @@ color: #574A2E;
       margin-bottom: 2rem;
   }
 
+/*footer*/
+
+footer{
+  position:fixed;
+  bottom: 0em;
+}
+
+.about-title{
+/*font-family: TINY;
+font-style: normal;
+font-weight: normal;
+line-height: 35px;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on, 'ss03' on;
+
+color: #574A2E;
+font-weight: normal;
+text-transform: uppercase;*/
+}
+
+  .flex-row-footer{
+    display:flex;
+    align-items:flex-start;
+    width:98vw;
+    justify-content:space-between;
+  }
+
+    .credits{
+    text-align:right;
+  }
+
+
+/*.bg{
+  background-color: #574A2E !important;
+      box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+      color: #FFFDF6;
+}
+
+.button{
+border-radius: 20px;
+padding: 10px 10px;
+    opacity: 90%;
+}
+
+.button:hover{
+  opacity: 90%;
+      box-shadow: 0px 0px 0px;
+}*/
 
   @media only screen and (max-width:800px) {
 
     .protect-yourself-while-you {
         display: block;
     }
+
+    .choose-your-adventure-left{
+      display:none;
+    }
+
+      .mobile-scenario{
+    display:block;
+            margin-bottom: 3rem;
+
+  }
+
+  .mobile-nav{
+    position:sticky;
+    top: 0;
+    left: 0;
+    z-index:100;
+    background: #FFFDF6;
+  }
+
+  .mobile-copy{
+    padding-top: 1em;
+    padding-bottom:1em;
+  }
 
     .choose-your-adventure {
         height: auto;
@@ -245,8 +382,8 @@ color: #574A2E;
     }
 
     h2.subtitle {
-        font-size: 30px;
-        line-height: 30px;
+/*        font-size: 30px;
+*/        line-height: 30px;
         text-align: left;
     }
 
