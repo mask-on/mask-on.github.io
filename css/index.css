@@ -230,7 +230,9 @@
 
   .about-copy {
       margin-top: 18vh;
-      font-size: 1.25em;
+      margin-left:20vw;
+      font-size: 1em;
+      width:75vw;
   }
 
 #before{
