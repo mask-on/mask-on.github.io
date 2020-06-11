@@ -340,6 +340,13 @@
 
 
   @media only screen and (max-width:800px) {
+
+    body{
+/*      height:auto;
+      overflow-y:auto;
+      display:block;*/
+
+    }
       .about {
           overflow: auto;
 
@@ -394,7 +401,8 @@
 
       .choose-your-adventure-right {
           width: 100%;
-          margin: 35vh 0 0 0;
+          margin: 50vh 0 0 0;
+          height:50vh;
 
       }
 
@@ -434,7 +442,7 @@
 
       .about footer {
           background: #574A2E;
-          width: 94%;
+          width: 98vw;
       }
 
   }
