@@ -66,7 +66,7 @@ Purpose:<br>
 
 <footer class="flex-row-footer">
   <a class="button bg" href="/about/">About Us</a>
-  <div class="credits">Website Built by <a href="https://www.netabomani.com/" target="_blank">Neta Bomani</a> & <a href="www.ritu.online" target="_blank">Ritu Ghiya</a></div>
+  <div class="credits">Website built by <a href="https://www.netabomani.com/" target="_blank">Neta Bomani</a> & <a href="https://www.ritu.online/" target="_blank">Ritu Ghiya</a></div>
 </footer>
 
 
