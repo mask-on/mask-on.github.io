@@ -22,6 +22,7 @@ layout: index
 </head>
 
 <body onload="startClock()">
+  <div class="page-content">
 
 <header>
 <div class="mobile-nav header-nav">
@@ -95,14 +96,13 @@ I'm returning from a protest.
 </div>
 
 
-<div id="before" class="choose-your-adventure-right">
-  <div class="space"></div>
+<div class="choose-your-adventure-right">
   <div class="scroll">
 <div class="tips">
 <!-- before -->
-<a class="time">
-before
+  <a class="time" id="before" >before
 </a>
+
 
 <!-- before - clothing table -->
 {% assign before = site.before | where: 'category', 'clothing' | sort: 'date' %}
@@ -1309,6 +1309,7 @@ after
 </div>
 </div>
 
+</div>
 </div>
 
 <footer>

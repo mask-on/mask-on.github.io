@@ -36,7 +36,15 @@
       font-size: 1.8rem;
       margin: 1em 1em 1em 1em;
       height: 100vh;
+      overflow-y:hidden;
+    display:flex;
+    flex-direction:column;
 
+  }
+
+  .page-content{
+/*    display:flex;
+    flex-direction:column;*/
   }
 
   /* about page styles */
@@ -69,7 +77,7 @@
       position: fixed;
       top: 0;
       background: #FFFDF6;
-      width: 98%;
+      width: 98vw;
   }
 
   .header-nav {
@@ -216,6 +224,7 @@
   .protect-yourself-while-you {
       display: flex;
       margin-top: 10vh;
+      height:10vh;
 
   }
 
@@ -224,26 +233,29 @@
       font-size: 1.25em;
   }
 
+#before{
+/*  scroll-margin-top: 60vh;
+*/}
 
 
   .choose-your-adventure-left {
       min-width: 30%;
       position: fixed;
-      padding-top: 5vh;
+      padding-top: 1%;
   }
 
   .choose-your-adventure-right {
-      margin-right: 1em;
-      margin-left: 30vh;
-      padding-top: 5vh;
+      height:90vh;
+      overflow:auto;
+      margin: 1em 1em 0 15em;
   }
 
 
 
   .title {
       display: flex;
-      margin-top: .15em;
-      margin-bottom: 1em;
+      margin-top: .15vh
+      ;
   }
 
   .mask-on {
@@ -311,7 +323,7 @@
   .flex-row-footer {
       display: flex;
       align-items: flex-start;
-      width: 98%;
+      width: 98vw;
       padding-top: 5%;
       justify-content: space-between;
   }
@@ -333,7 +345,6 @@
 
       .protect-yourself-while-you {
           display: block;
-
       }
 
       .choose-your-adventure-left {
@@ -367,18 +378,18 @@
 
       .choose-your-adventure {
           height: auto;
-          margin-bottom: 3rem;
+          margin-bottom: 3vh;
       }
 
       .choose-your-adventure-right {
           width: 100%;
-          margin: 35vh 0 10vh 0;
+          margin: 35vh 0 0 0;
 
       }
 
       .title {
           display: block;
-          margin-bottom: 0em;
+          margin-bottom: 0vh;
           text-align: left;
       }
 
@@ -406,7 +417,7 @@
           bottom: 0em;
           background: #FFFDF6;
           z-index: 100;
-          width: 94%;
+          width: 98vw;
 
       }
 
