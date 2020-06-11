@@ -24,7 +24,7 @@ layout: index
 <body onload="startClock()">
 
 <header>
-<div class="mobile-nav">
+<div class="mobile-nav header-nav">
 <div class="mobile-copy">
 <div class="title">
 
