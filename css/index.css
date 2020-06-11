@@ -345,6 +345,13 @@
 
       }
 
+        .about-copy {
+      margin-top: 15vh;
+      margin-left:5vw;
+      font-size: 1em;
+      width:80vw;
+  }
+
       .protect-yourself-while-you {
           display: block;
       }
@@ -375,6 +382,8 @@
           padding-top: 1em;
           padding-bottom: 1em;
       }
+
+
 
 
 
