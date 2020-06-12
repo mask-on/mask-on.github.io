@@ -47,17 +47,19 @@ layout: index
 
 <div class="protect-yourself-while-you about-copy">
 	<div>
-	<p><span class="project-title">Mask On Zone</span> was created to serve as an anti-surveillance toolkit to protect protesters on the streets resisting white supremacy and the carceral state, and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.</p><br><br>
+	<p><span class="project-title">Mask On Zone</span> was created to serve as an anti-surveillance toolkit to protect protesters on the streets resisting white inferiority and the carceral state; and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.</p><br><br>
 
-<p><span class="project-title">Mask On Zone</span> seeks to develop a praxis of anti-surveillance that finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete.</p><br><br>
+<div class="text-center">Our purpose is to:<br>
 
-<div class="text-center">Purpose:<br>
+* Inform people on what to consider before, during and after protesting,<br>
 
-- Building public education materials around anti-surveillance/engaging online<br>
+* Build political education around anti-surveillance and digital safety,<br>
 
-- What folks should consider before, during and after protesting<br>
+* Create a hub for anti-surveillance resources and tips in simple plain text that can be easily digested </div><br><br>
 
-- This document will be a place for all of our resources + the breakdown of resources in simple plain text that can be easily designed.</div><br><br>
+<p>We seek to develop a practice of anti-surveillance which finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete.
+</p><br><br>
+
 
 </div>
 

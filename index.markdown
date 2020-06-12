@@ -223,7 +223,7 @@ I'm returning from a protest.
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
@@ -639,7 +639,7 @@ during
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
@@ -1034,7 +1034,7 @@ after
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
