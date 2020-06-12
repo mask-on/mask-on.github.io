@@ -46,17 +46,20 @@ layout: index
 
 
 <div class="protect-yourself-while-you about-copy">
-	Mask On Zone was created to serve as an anti-surveillance toolkit to protect protesters on the streets resisting white supremacy and the carceral state, and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.<br><br>
+	<div>
+	<p><span class="project-title">Mask On Zone</span> was created to serve as an anti-surveillance toolkit to protect protesters on the streets resisting white supremacy and the carceral state, and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.</p><br><br>
 
-Mask On Zone seeks to develop a praxis of anti-surveillance that finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete.<br><br>
+<p><span class="project-title">Mask On Zone</span> seeks to develop a praxis of anti-surveillance that finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete.</p><br><br>
 
-Purpose:<br>
+<div class="text-center">Purpose:<br>
 
 - Building public education materials around anti-surveillance/engaging online<br>
 
 - What folks should consider before, during and after protesting<br>
 
-- This document will be a place for all of our resources + the breakdown of resources in simple plain text that can be easily designed. <br><br>
+- This document will be a place for all of our resources + the breakdown of resources in simple plain text that can be easily designed.</div><br><br>
+
+</div>
 
 </div>
 
