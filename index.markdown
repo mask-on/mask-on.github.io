@@ -216,14 +216,14 @@ I'm returning from a protest.
 {% endfor %}
 
 
-<!-- before - photography and video table -->
+<!-- before - photography & video table -->
 {% assign before = site.before | where: 'category', 'photography and video' | sort: 'date' %}
 
   {% for tip in before %}
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
@@ -632,14 +632,14 @@ during
 {% endfor %}
 
 
-<!-- during - photography and video table -->
+<!-- during - photography & video table -->
 {% assign during = site.during | where: 'category', 'photography and video' | sort: 'date' %}
 
   {% for tip in during %}
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
@@ -1027,14 +1027,14 @@ after
 {% endfor %}
 
 
-<!-- after - photography and video table -->
-{% assign after = site.after | where: 'category', 'photography and video' | sort: 'date' %}
+<!-- after - photography & video table -->
+{% assign after = site.after | where: 'category', 'photography & video' | sort: 'date' %}
 
   {% for tip in after %}
     {% if tip %}
 
 {% if forloop.first == true %}
-<button class="collapse">photography and video<span class="collapse"> - </span> </button>
+<button class="collapse">photography & video<span class="collapse"> - </span> </button>
 <div class="content">
 {% endif %}
 
