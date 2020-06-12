@@ -17,8 +17,8 @@ layout: index
 
 <title> mask on — anti surveillance protest guide </title>
 
-  <link href="{{site.baseurl}}/css/index.css" rel="stylesheet">
-
+<link href="{{site.baseurl}}/css/index.css" rel="stylesheet">
+<link rel=icon href="{{site.baseurl}}/favicon.ico">
 </head>
 
 <body onload="startClock()">
