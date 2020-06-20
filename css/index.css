@@ -23,7 +23,11 @@
   }
 
   html {
-      font-size: 56.25%;
+      font-size: 22px;
+      line-height:36px;
+      width:100vw;
+      height:100vh;
+      overflow-y:auto;
   }
 
   body {
@@ -31,9 +35,7 @@
       font-family: NeueHaasGroteskRegular;
       font-style: normal;
       font-weight: 500;
-      line-height: 34px;
       color: #574A2E;
-      font-size: 1.8rem;
       margin: 2vh 2vw;
       height: 96vh;
       overflow-y:hidden;
@@ -54,8 +56,8 @@
       font-family: NeueHaasGroteskRegular;
       font-style: normal;
       font-weight: 500;
-      line-height: 34px;
-      color: #FFFDF6;
+/*      line-height: 34px;
+*/      color: #FFFDF6;
       margin: 2vh 2vw;
       height: 96vh;
       overflow: hidden;
@@ -89,11 +91,11 @@
       font-family: TINY;
       font-style: normal;
       font-weight: normal;
-      font-size: 4.75rem;
-      line-height: 35px;
-      text-transform: uppercase;
+      font-size: 2.25em;
+/*      line-height: 35px;
+*/      text-transform: uppercase;
       font-feature-settings: 'pnum'on, 'lnum'on, 'ss03'on;
-
+      margin-top:1vh;
       color: #574A2E;
       font-weight: normal;
       text-transform: uppercase;
@@ -113,10 +115,10 @@
 
   h3.scenario {
       font-family: Times, serif;
-      font-size: 2rem;
+      font-size: 1em;
       font-weight: normal;
       text-transform: uppercase;
-      margin-bottom: 0px;
+      margin-bottom: 0.8em;
   }
 
   h4 {
@@ -134,8 +136,7 @@
   }
 
   #clock {
-      font-size: 3rem;
-      color: #ED6532;
+      font-size: 1.5em;      color: #ED6532;
   }
 
   .mobile-scenario {
@@ -204,11 +205,10 @@
   }
 
   li.scenario {
-      line-height: 1.3em;
-  }
+/*      line-height: 1.3em;
+*/  }
 
   li.tip {
-      line-height: 1.1em;
       padding: 1vh 0em 0em 0em;
       margin: 0 0 0 0%;
   }
@@ -223,7 +223,7 @@
 
   .protect-yourself-while-you {
       display: flex;
-      margin-top: 12vh;
+      margin-top: 15vh;
       height:10vh;
 
   }
@@ -255,11 +255,11 @@
   .choose-your-adventure-left {
       min-width: 30%;
       position: fixed;
-      top:13vh;
+      top:16.5vh;
   }
 
   .choose-your-adventure-right {
-      height:90vh;
+      height:75vh;
       overflow:auto;
       margin: 0 0 0 25vw;
       padding-bottom:10vh;
@@ -285,19 +285,24 @@
 
   .advisory-svg {
       width: 1vw;
-      margin-right: 2vw;
+      margin: 1vh 2vw 0 0;
+  }
+
+  .time-heading,
+  .content{
+    margin-bottom:1em;
   }
 
   .collapse {
       background-color: #574A2E;
       color: #FFFDF6;
       cursor: help;
-      padding: 1rem;
+      padding: 0.5em;
       width: 100%;
       border: none;
       outline: none;
       border: 1px solid #574A2E;
-      font-size: 2rem;
+      font-size: 1em;
       text-transform: capitalize;
       text-align: left;
   }
@@ -306,8 +311,10 @@
   .collapse:after {
       content: '＋';
       /* full width plus sign */
-      font-size: 13px;
-      color: #FFFDF6;
+/*      font-size: 13px;
+*/     
+font-size: 1em;
+color: #FFFDF6;
       float: right;
       margin-left: 5px;
   }
@@ -323,14 +330,13 @@
       overflow: hidden;
       transition: max-height 0.2s ease-out;
       border: 1px solid #574A2E;
-      margin-bottom: 2rem;
   }
 
   /*footer*/
 
   footer {
       position: fixed;
-      bottom: 0em;
+      bottom: 2vh;
   }
 
   .about-title {}
@@ -427,7 +433,6 @@
       }
 
       h2.subtitle {
-          line-height: 30px;
           text-align: left;
       }
 
@@ -443,7 +448,6 @@
 
       footer {
           position: fixed;
-          bottom: 0em;
           background: #FFFDF6;
           z-index: 100;
           width: 96vw;

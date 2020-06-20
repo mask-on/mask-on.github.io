@@ -100,8 +100,8 @@ I'm returning from a protest.
   <div class="scroll">
 <div class="tips">
 <!-- before -->
-  <a class="time"    id="before" >before
-</a>
+<div class="time-heading"><a class="time"    id="before" >before
+</a></div>
 
 
 <!-- before - clothing table -->
@@ -516,9 +516,8 @@ I'm returning from a protest.
 
 
 <!-- during -->
-<a id="during" class="time">
-during
-</a>
+<div class="time-heading"><a class="time"    id="during" >during
+</a></div>
 
 <!-- during - clothing table -->
 {% assign during = site.during | where: 'category', 'clothing' | sort: 'date' %}
@@ -911,9 +910,8 @@ during
 
 
 <!-- after -->
-<a id="after" class="time">
-after
-</a>
+<div class="time-heading"><a class="time"    id="after" >after
+</a></div>
 
 <!-- after - clothing table -->
 {% assign after = site.after | where: 'category', 'clothing' | sort: 'date' %}
