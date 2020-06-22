@@ -80,12 +80,13 @@
   .img-container{
     display:flex;
     flex-wrap:wrap;
+    align-self:center;
     margin-top:1vh;
   }
 
   .img-container img{
     width:40vw;
-    height:auto;
+    height:100%;
     margin: 1vh 1vw;
   }
 
