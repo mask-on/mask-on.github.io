@@ -37,16 +37,10 @@
       font-weight: 500;
       color: #574A2E;
       margin: 2vh 3vw;
-      height: 96vh;
-      overflow-y:hidden;
+  overflow-y:hidden;
     display:flex;
     flex-direction:column;
 
-  }
-
-  .page-content{
-/*    display:flex;
-    flex-direction:column;*/
   }
 
   /* about page styles */
@@ -262,7 +256,7 @@
   }
 
   .about-copy {
-      margin-top: 15vh;
+      margin-top: 20vh;
       font-size: 1.15em;
             font-family: Times, serif;
             line-height:1.25em;
@@ -428,9 +422,9 @@ color: #FFFDF6;
 
   @media only screen and (max-width:900px) {
 
-    html{
-/*      font-size:18px;
-*/    }
+    body{
+      overflow-y:visible;
+    }
 
       .about {
           overflow: auto;
@@ -438,7 +432,8 @@ color: #FFFDF6;
       }
 
         .about-copy {
-      font-size: 1em;
+          font-size:0.9em;
+      line-height: 1.5em;
       margin-bottom:10vh;
   }
 
