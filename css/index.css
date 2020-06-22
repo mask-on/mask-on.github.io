@@ -82,11 +82,12 @@
     flex-wrap:wrap;
     align-self:center;
     margin-top:1vh;
+    width:60vw;
   }
 
   .img-container img{
-    width:200px;
-    height:200px;
+    width:250px;
+    height:250px;
     margin-right: 2vw;
     margin-bottom:2vh;
   }
@@ -249,8 +250,6 @@
   .protect-yourself-while-you {
       display: flex;
       margin-top: 19vh;
-      height:10vh;
-
   }
 
   .about-copy {
@@ -439,8 +438,9 @@ color: #FFFDF6;
       }
 
               .about-copy {
-          font-size:0.9em;
+          font-size:1.1em;
       line-height: 1.5em;
+      padding-bottom:10vh;
       margin-bottom:10vh;
   }
 
@@ -528,6 +528,18 @@ color: #FFFDF6;
           width: 2vw;
           margin-right: 2vw;
       }
+
+.img-container{
+      width:90vw;
+}
+
+  .img-container img{
+    width:150px;
+    height:150px;
+    margin-right: 2vw;
+    margin-bottom:2vh;
+  }
+
 
       .footer-imglink{
   align-items:flex-end;
