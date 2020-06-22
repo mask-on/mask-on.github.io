@@ -2,7 +2,7 @@
 layout: county 
 unique_id: during-social57
 #: 57
-date: 2020-06-10
+date: 2020-06-22
 id: during-social
 collection: during
 advisory: don't

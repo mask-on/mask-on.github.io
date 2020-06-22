@@ -2,7 +2,7 @@
 layout: county 
 unique_id: after-transit5
 #: 5
-date: 2020-06-10
+date: 2020-06-22
 id: after-transit
 collection: after
 advisory: don't

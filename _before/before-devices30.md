@@ -2,7 +2,7 @@
 layout: county 
 unique_id: before-devices30
 #: 30
-date: 2020-06-10
+date: 2020-06-22
 id: before-devices
 collection: before
 advisory: do

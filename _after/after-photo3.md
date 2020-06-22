@@ -2,7 +2,7 @@
 layout: county 
 unique_id: after-photo3
 #: 3
-date: 2020-06-10
+date: 2020-06-22
 id: after-photo
 collection: after
 advisory: do

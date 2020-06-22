@@ -2,7 +2,7 @@
 layout: county 
 unique_id: during-devices58
 #: 58
-date: 2020-06-10
+date: 2020-06-22
 id: during-devices
 collection: during
 advisory: do

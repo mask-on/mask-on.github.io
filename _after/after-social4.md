@@ -2,7 +2,7 @@
 layout: county 
 unique_id: after-social4
 #: 4
-date: 2020-06-10
+date: 2020-06-22
 id: after-social
 collection: after
 advisory: do

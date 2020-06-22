@@ -2,7 +2,7 @@
 layout: county 
 unique_id: before-donations22
 #: 22
-date: 2020-06-10
+date: 2020-06-22
 id: before-donations
 collection: before
 advisory: don't

@@ -2,7 +2,7 @@
 layout: county 
 unique_id: before-clothing24
 #: 24
-date: 2020-06-10
+date: 2020-06-22
 id: before-clothing
 collection: before
 advisory: do

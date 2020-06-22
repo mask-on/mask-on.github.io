@@ -2,7 +2,7 @@
 layout: county 
 unique_id: during-transit60
 #: 60
-date: 2020-06-10
+date: 2020-06-22
 id: during-transit
 collection: during
 advisory: don't

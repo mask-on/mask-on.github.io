@@ -2,7 +2,7 @@
 layout: county 
 unique_id: during-photo52
 #: 52
-date: 2020-06-10
+date: 2020-06-22
 id: during-photo
 collection: during
 advisory: do

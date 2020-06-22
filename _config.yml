@@ -24,6 +24,8 @@ collections:
     output: true
   after:
     output: true
+  resources:
+    output: true
 
 # defaults:
 #   -
