@@ -44,26 +44,16 @@ layout: index
 
 <div class="mobile-scenario">
 <h3 class="scenario"> select scenario: </h3>
-<ul class="scenario">
-<li class="scenario">
 <a href="#before">
-I'm going to a protest.
-<span> <img src="assets/star.svg" class="star" /> </span>
-</a>
-</li>
-<li class="scenario">
+I'm going to a protest,
+</a><br>
 <a href="#during">
-I'm at a protest.
-<span> <img src="assets/star.svg" class="star" /> </span>
-</a>
-</li>
-<li class="scenario">
+I'm at a protest, 
+</a><br>
 <a href="#after">
 I'm returning from a protest.
-<span> <img src="assets/star.svg" class="star" /> </span>
-</a>
-</li>
-</ul>
+</a><br>
+
 </div>
 </div>
 </div>
