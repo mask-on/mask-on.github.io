@@ -420,6 +420,12 @@ color: #FFFDF6;
 
   @media only screen and (max-width:900px) {
 
+
+  html {
+      font-size: 18px;
+      line-height:30px;
+    }
+
     body{
       overflow-y:visible;
     }

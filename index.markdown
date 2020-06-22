@@ -46,13 +46,13 @@ layout: index
 <h3 class="scenario"> select scenario: </h3>
 <a href="#before">
 I'm going to a protest,
-</a><br>
+</a>
 <a href="#during">
 I'm at a protest, 
-</a><br>
+</a>
 <a href="#after">
 I'm returning from a protest.
-</a><br>
+</a>
 
 </div>
 </div>
