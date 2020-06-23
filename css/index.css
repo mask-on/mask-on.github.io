@@ -395,9 +395,11 @@ color: #FFFDF6;
 
 }
 
+
 .selected{
-/*      color: #e8382e !important;
-*/
+      color: #e8382e !important;
+     fill: #e8382e !important;
+
 }
 
 .footer-svg:hover{
