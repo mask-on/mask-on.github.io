@@ -39,7 +39,7 @@ layout: index
 <div class="title">
 
 <div class="mask-on">
-<h1 class="title"> <a href="{{site.baseurl}}/#">mask on zone</a></h1>
+<h1 class="title"> <a href="{{site.baseurl}}">mask on zone</a></h1>
 </div>
 
 <div id="clock"> </div>

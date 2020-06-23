@@ -12,15 +12,3 @@ for (let i = 0; i < coll.length; i += 1) {
     } 
   });
 }
-
-document
-    .getElementById("before")
-    .scrollIntoView({ behavior: "smooth" });
-
-document
-    .getElementById("during")
-    .scrollIntoView({ behavior: "smooth" });
-
-document
-    .getElementById("after")
-    .scrollIntoView({ behavior: "smooth" });
