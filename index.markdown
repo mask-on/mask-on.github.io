@@ -20,6 +20,10 @@ layout: index
 <link href="{{site.baseurl}}/css/index.css" rel="stylesheet">
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-26328299-2"></script>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -53,13 +57,13 @@ layout: index
 
 <div class="mobile-scenario">
 <h3 class="scenario"> select scenario: </h3>
-<a href="#before">
+<a class="before page-scroll" href="#before">
 I'm going to a protest,
 </a>
-<a href="#during">
+<a class="during page-scroll" href="#during">
 I'm at a protest, 
 </a>
-<a href="#after">
+<a class="after page-scroll" href="#after">
 I'm returning from a protest.
 </a>
 
@@ -74,19 +78,19 @@ I'm returning from a protest.
 <h3 class="scenario"> select scenario: </h3>
 <ul class="scenario">
 <li class="scenario">
-<a href="#before">
+<a class="before page-scroll" href="#before">
 I'm going to a protest.
 <span> <img src="assets/star.svg" class="star" /> </span>
 </a>
 </li>
 <li class="scenario">
-<a href="#during">
+<a class="during page-scroll" href="#during">
 I'm at a protest.
 <span> <img src="assets/star.svg" class="star" /> </span>
 </a>
 </li>
 <li class="scenario">
-<a href="#after">
+<a class="after page-scroll" href="#after">
 I'm returning from a protest.
 <span> <img src="assets/star.svg" class="star" /> </span>
 </a>
@@ -1323,6 +1327,7 @@ Resources
 
 <script src="{{site.baseurl}}/js/clock.js"></script>
 <script src="{{site.baseurl}}/js/layout.js"></script>
+
 
 </body>
 </html>
