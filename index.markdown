@@ -38,7 +38,7 @@ layout: index
   <div class="page-content">
 
 <header>
-<div class="mobile-nav header-nav">
+<div class="mobile-nav header-copy">
 <div class="mobile-copy">
 <div class="copy flex-row">
 

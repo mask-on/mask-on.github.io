@@ -34,7 +34,7 @@ layout: index
 <body class="resources" onload="startClock()">
 
 <header>
-<div class="mobile-nav header-nav">
+<div class="mobile-nav header-copy">
 <div class="mobile-copy">
 <div class="title">
 

@@ -33,7 +33,7 @@
       font-style: normal;
       font-weight: 500;
       color: #574A2E;
-      margin: 2vh 3vw;
+      margin: 3vh 3vw;
     display:flex;
     flex-direction:column;
 
@@ -50,7 +50,7 @@
       font-weight: 500;
 /*      line-height: 34px;
 */      color: #FFFDF6;
-      margin: 2vh 2vw;
+      margin: 2vh 3vw;
 /*      height: 96vh;
 */      overflow: auto;
   }
@@ -88,12 +88,14 @@
   header {
       position: fixed;
       top: 0;
+      left: 0;
       background: #FFFDF6;
-      width: 94vw;
+      width: 100vw;
   }
 
-  .header-nav {
-      padding-top: 3vh;
+  .header-copy {
+    width:94vw;
+    margin: 3vh 3vw;
   }
 
 
@@ -490,7 +492,7 @@ color: #FFFDF6;
 
 
 
-      .header-nav{
+      .header-copy{
         padding-top:1vh;
       }
 
