@@ -41,17 +41,8 @@
 
   /* about page styles */
 
-  .about {
-      background: #574A2E;
-      font-family: NeueHaasGroteskRegular;
-      font-style: normal;
-      font-weight: 500;
-/*      line-height: 34px;
-*/      color: #FFFDF6;
-      margin: 2vh 2vw;
-      height: 96vh;
-  }
 
+    .about,
     .resources {
       background: #574A2E;
       font-family: NeueHaasGroteskRegular;
@@ -60,8 +51,8 @@
 /*      line-height: 34px;
 */      color: #FFFDF6;
       margin: 2vh 2vw;
-      height: 96vh;
-      overflow: auto;
+/*      height: 96vh;
+*/      overflow: auto;
   }
 
   .about header,
@@ -253,15 +244,22 @@
   }
 
   .about-copy {
-      margin-top: 20vh;
-      font-size: 1.15em;
+      margin: 18vh 0;
+      font-size: 1em;
             font-family: Times, serif;
             line-height:1.25em;
 
   }
 
-  .about-copy{
+  .about-copy p,
+  .text-center{
     text-indent:2vw;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+
+  .about-copy .about-copy-h1{
+    font-style:italic;
   }
 
   .text-center{
@@ -411,7 +409,6 @@ color: #FFFDF6;
   .about-title {}
 
   .credits {
-      text-align: right;
   }
 
 
@@ -440,7 +437,7 @@ color: #FFFDF6;
       }
 
               .about-copy {
-          font-size:1.1em;
+          font-size:1em;
       line-height: 1.5em;
       padding-bottom:10vh;
       margin-bottom:10vh;

@@ -57,7 +57,9 @@ layout: index
 
 <div class="protect-yourself-while-you about-copy">
 	<div>
-	<p><span class="project-title">Mask On Zone</span> was created to serve as an anti-surveillance toolkit to protect protesters on the streets resisting white inferiority and the carceral state; and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.</p><br><br>
+		<div class="about-copy-h1">Surveillance means being monitored, tracked, and watched so that the watcher can gather information on the person being watched.</div>
+
+<p><span class="project-title">Mask On Zone</span> was created to serve as an anti-surveillance toolkit for the expanding resistance to white inferiority and the carceral state; and to protect them after returning home and when talking about uprisings. As abolitionists, we know that the police and prisons rely on oppressive surveillance regimes to sustain their brutality and harm. These forms of surveillance specifically target Black activists fighting for liberation.</p>
 
 <div class="text-center">Our purpose is to:<br>
 
@@ -65,10 +67,30 @@ layout: index
 
 * Build political education around anti-surveillance and digital safety,<br>
 
-* Create a hub for anti-surveillance resources and tips in simple plain text that can be easily digested </div><br><br>
+* Create a hub for anti-surveillance resources and tips in simple plain text that can be easily digested</div>
 
-<p>We seek to develop a practice of anti-surveillance which finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete.
-</p><br><br>
+<p>We seek to develop a practice of anti-surveillance which finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete. 
+</p>
+
+<p>It is important to note, this work is built upon the wonderful work of others that you can find ohe resource page. We have tried our best to make the information as clear and concise as possible. The best thing to do when going through this content is to access your risk, nothing is perfect!</p><br><br>
+
+
+<div class="credits">
+
+<div class="about-copy-h1">Research by:</div>
+
+<p>Priya Prabhakar is an organizer, designer, researcher, and filmmaker from Chennai, India. (priyaprabhakar32@gmail.com, IG: <a href="https://www.instagram.com/priya_prabhakar/">@priya_prabhakar</a>, Twitter: <a href="https://twitter.com/priyavprabhakar">@priyavprabhakar</a>)</p>
+
+<p>Nasma Ahmed existing and chillin in Toronto <a href="https://twitter.com/nasma_ahmed">@nasma_ahmed</a></p>
+
+<p>Maha Shaista Ahmed is a designer and researcher based in New York. <a href="https://twitter.com/maha_shaista">Twitter</a> and <a href="https://www.instagram.com/maha_shaista/">Instagram</a> accessible at @maha_shaista.</p>
+
+<p>Elly Belle is a journalist and organizer based in Brooklyn. Twitter: <a href="https://twitter.com/literelly">@literelly</a></p><br><br>
+
+<div class="about-copy-h1">Website built + designed by:</div>
+
+<p><a href="https://www.netabomani.com/">neta bomani</a> + <a href="https://www.ritu.online/">ritu ghiya</a></p>
+
 
 
 </div>
