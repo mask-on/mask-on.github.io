@@ -2,11 +2,11 @@
 layout: county 
 unique_id: before-devices31
 #: 31
-date: 2020-06-22
+date: 2020-06-25
 id: before-devices
 collection: before
-advisory: do
+advisory: don't
 category: devices
-title: Phone
-tip: If possible, leave your phone at home, for the reasons of avoiding geolocational tracking or avoiding the possibility of your phone being taken away by the police.
+title: File sharing
+tip: Don't rely on Google Drive or Dropbox for file sharing. Onionshare.org is a good alternative.
 ---

@@ -2,11 +2,11 @@
 layout: county 
 unique_id: before-transit47
 #: 47
-date: 2020-06-22
+date: 2020-06-25
 id: before-transit
 collection: before
-advisory: don't
+advisory: do
 category: transportation
-title: Methods
-tip: Do not use ride sharing services such as Uber or Lyft as they track your locations.
+title: Public transit
+tip: Purchase your public transit card or ticket with cash because a debit or credit card will track your personal information and can be used to track your movements.
 ---
