@@ -369,8 +369,8 @@ color: #FFFDF6;
 
   .footer-copy{
     display:flex;
-    width:96vw;
-    margin: 2vh 2vw;
+    width:94vw;
+    margin: 3vh 3vw;
     justify-content:space-between;
   }
 

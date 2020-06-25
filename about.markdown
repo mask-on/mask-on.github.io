@@ -45,7 +45,7 @@ layout: index
 <div id="clock"> </div>
 
 <div class="mask-on">
-<h2 class="subtitle"> anti surveillance protest guide </h2>
+<h2 class="subtitle"> <a href="https://maskon.zone/">anti surveillance protest guide</a></h2>
 </div>
 
 </div>
@@ -79,17 +79,17 @@ layout: index
 
 <div class="about-copy-h1">Research by:</div>
 
-<p>Priya Prabhakar is an organizer, designer, researcher, and filmmaker from Chennai, India. (priyaprabhakar32@gmail.com, IG: <a href="https://www.instagram.com/priya_prabhakar/">@priya_prabhakar</a>, Twitter: <a href="https://twitter.com/priyavprabhakar">@priyavprabhakar</a>)</p>
+<p>Priya Prabhakar is an organizer, designer, researcher, and filmmaker from Chennai, India. (priyaprabhakar32@gmail.com, IG: <a href="https://www.instagram.com/priya_prabhakar/" target="_blank">@priya_prabhakar</a>, Twitter: <a href="https://twitter.com/priyavprabhakar" target="_blank">@priyavprabhakar</a>)</p>
 
-<p>Nasma Ahmed existing and chillin in Toronto <a href="https://twitter.com/nasma_ahmed">@nasma_ahmed</a></p>
+<p>Nasma Ahmed existing and chillin in Toronto <a href="https://twitter.com/nasma_ahmed" target="_blank">@nasma_ahmed</a></p>
 
-<p>Maha Shaista Ahmed is a designer and researcher based in New York. <a href="https://twitter.com/maha_shaista">Twitter</a> and <a href="https://www.instagram.com/maha_shaista/">Instagram</a> accessible at @maha_shaista.</p>
+<p>Maha Shaista Ahmed is a designer and researcher based in New York. <a href="https://twitter.com/maha_shaista" target="_blank">Twitter</a> and <a href="https://www.instagram.com/maha_shaista/" target="_blank">Instagram</a> accessible at @maha_shaista.</p>
 
-<p>Elly Belle is a journalist and organizer based in Brooklyn. Twitter: <a href="https://twitter.com/literelly">@literelly</a></p><br><br>
+<p>Elly Belle is a journalist and organizer based in Brooklyn. Twitter: <a href="https://twitter.com/literelly" target="_blank">@literelly</a></p><br><br>
 
 <div class="about-copy-h1">Website built + designed by:</div>
 
-<p><a href="https://www.netabomani.com/">neta bomani</a> + <a href="https://www.ritu.online/">ritu ghiya</a></p>
+<p><a href="https://www.netabomani.com/" target="_blank">neta bomani</a> + <a href="https://www.ritu.online/" target="_blank">ritu ghiya</a></p>
 
 
 

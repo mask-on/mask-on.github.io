@@ -49,7 +49,7 @@ layout: index
 <div id="clock"> </div>
 
 <div class="mask-on">
-<h2 class="subtitle"> anti surveillance protest guide </h2>
+<h2 class="subtitle">anti surveillance protest guide </h2>
 </div>
 
 </div>
