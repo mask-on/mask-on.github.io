@@ -72,7 +72,7 @@ layout: index
 <p>We seek to develop a practice of anti-surveillance which finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete. 
 </p>
 
-<p>It is important to note, this work is built upon the wonderful work of others that you can find ohe resource page. We have tried our best to make the information as clear and concise as possible. The best thing to do when going through this content is to access your risk, nothing is perfect!</p><br><br>
+<p>It is important to note, this work is built upon the wonderful work of others that you can find the resource page. We have tried our best to make the information as clear and concise as possible. The best thing to do when going through this content is to access your risk, nothing is perfect!</p><br><br>
 
 
 <div class="credits">
