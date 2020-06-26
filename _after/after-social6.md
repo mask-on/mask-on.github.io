@@ -8,5 +8,5 @@ collection: after
 advisory: do
 category: social media
 title: Sharing photos
-tip: Will posting this help more than it will harm?
+tip: Ask yourself, "Will posting this photo help more than it will harm?"
 ---
