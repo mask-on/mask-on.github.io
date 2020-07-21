@@ -72,14 +72,14 @@ layout: index
 <p>We seek to develop a practice of anti-surveillance which finds necessary and creative ways to subvert the surveillance state. As we fight for a new world, we also must make political demands that promote trust, solidarity, mutual aid, and collective forms of living, that render surveillance obsolete. 
 </p>
 
-<p>It is important to note, this work is built upon the wonderful work of others that you can find the resource page. We have tried our best to make the information as clear and concise as possible. The best thing to do when going through this content is to access your risk, nothing is perfect!</p><br><br>
+<p>It is important to note, this work is built upon the wonderful work of others that you can find the resource page. We have tried our best to make the information as clear and concise as possible. The best thing to do when going through this content is to assess your risk, nothing is perfect!</p><br><br>
 
 
 <div class="credits">
 
 <div class="about-copy-h1">Research by:</div>
 
-<p>Priya Prabhakar is an organizer, designer, researcher, and filmmaker from Chennai, India. (priyaprabhakar32@gmail.com, IG: <a href="https://www.instagram.com/priya_prabhakar/" target="_blank">@priya_prabhakar</a>, Twitter: <a href="https://twitter.com/priyavprabhakar" target="_blank">@priyavprabhakar</a>)</p>
+<p>Priya Prabhakar is an organizer, designer, researcher, and filmmaker from Chennai, India. (Email: priyaprabhakar32@gmail.com, Instagram: <a href="https://www.instagram.com/priya_prabhakar/" target="_blank">@priya_prabhakar</a>, Twitter: <a href="https://twitter.com/priyavprabhakar" target="_blank">@priyavprabhakar</a>)</p>
 
 <p>Nasma Ahmed existing and chillin in Toronto <a href="https://twitter.com/nasma_ahmed" target="_blank">@nasma_ahmed</a></p>
 
