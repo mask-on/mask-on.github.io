@@ -5,7 +5,7 @@ unique_id: reading9
 type: reading
 title: Security culture PDFs Twitter thread
 alt_text: 
-url: https://twitter.com/niggardavedon/status/1266483645092634639
+link: https://twitter.com/niggardavedon/status/1266483645092634639
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---

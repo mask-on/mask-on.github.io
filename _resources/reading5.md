@@ -5,7 +5,7 @@ unique_id: reading5
 type: reading
 title: Surveillance Self-Defense in Public Spaces
 alt_text: 
-url: https://www.instagram.com/p/CA14uPoDAN5/?igshid=159gjyrqy7tet
+link: https://www.instagram.com/p/CA14uPoDAN5/?igshid=159gjyrqy7tet
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---

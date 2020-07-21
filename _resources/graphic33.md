@@ -5,7 +5,7 @@ unique_id: graphic33
 type: graphic
 title: 
 alt_text: 
-url: 
+link: 
 filename: social media.png
-date: 2020-06-22
+date: 2020-07-21
 ---

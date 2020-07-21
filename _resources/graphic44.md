@@ -5,7 +5,7 @@ unique_id: graphic44
 type: graphic
 title: 
 alt_text: 
-url: 
+link: 
 filename: methods.png
-date: 2020-06-22
+date: 2020-07-21
 ---

@@ -5,7 +5,7 @@ unique_id: graphic46
 type: graphic
 title: 
 alt_text: 
-url: 
+link: 
 filename: photography_video.png
-date: 2020-06-22
+date: 2020-07-21
 ---

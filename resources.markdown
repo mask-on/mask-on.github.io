@@ -65,7 +65,7 @@ layout: index
    {% if forloop.first == true %}
    <p>Readings:</p>
    {% endif %}
-   <a href="{{reading.url}}">{{reading.title}}</a>, 
+   <a href="{{reading.link}}" target="_blank">{{reading.title}}</a>, 
    {% endif %}
 {% endfor %}
 <br><br>
@@ -78,7 +78,7 @@ layout: index
    {% if forloop.first == true %}
   <p>Tools:</p>
    {% endif %}
-   <a href="{{tool.url}}">{{tool.title}}</a>, 
+   <a href="{{tool.link}}" target="_blank">{{tool.title}}</a>, 
    {% endif %}
 {% endfor %}
 <br><br>

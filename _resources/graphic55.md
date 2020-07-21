@@ -5,7 +5,7 @@ unique_id: graphic55
 type: graphic
 title: 
 alt_text: 
-url: 
+link: 
 filename: internetusage.png
-date: 2020-06-22
+date: 2020-07-21
 ---

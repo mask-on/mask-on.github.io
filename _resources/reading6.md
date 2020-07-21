@@ -5,7 +5,7 @@ unique_id: reading6
 type: reading
 title: How to Protest Safely in the Age of Surveillance
 alt_text: 
-url: https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/
+link: https://www.wired.com/story/how-to-protest-safely-surveillance-digital-privacy/
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---

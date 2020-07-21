@@ -5,7 +5,7 @@ unique_id: tool18
 type: tool
 title: Image Scrubber by Everest Pipkin
 alt_text: 
-url: https://everestpipkin.github.io/image-scrubber/
+link: https://everestpipkin.github.io/image-scrubber/
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---

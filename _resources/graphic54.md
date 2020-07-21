@@ -5,7 +5,7 @@ unique_id: graphic54
 type: graphic
 title: 
 alt_text: 
-url: 
+link: 
 filename: protectinginfo.png
-date: 2020-06-22
+date: 2020-07-21
 ---

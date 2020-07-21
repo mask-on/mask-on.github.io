@@ -5,7 +5,7 @@ unique_id: reading17
 type: reading
 title: How the FBI are tracking protestors Twitter thread
 alt_text: 
-url: https://twitter.com/seamushughes/status/1273099239648829443?s=21
+link: https://twitter.com/seamushughes/status/1273099239648829443?s=21
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---

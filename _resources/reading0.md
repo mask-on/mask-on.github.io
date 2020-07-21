@@ -5,7 +5,7 @@ unique_id: reading0
 type: reading
 title: COINTELPRO and the History of Domestic Spying
 alt_text: 
-url: https://www.npr.org/templates/story/story.php?storyId=5161811
+link: https://www.npr.org/templates/story/story.php?storyId=5161811
 filename: 
-date: 2020-06-22
+date: 2020-07-21
 ---
