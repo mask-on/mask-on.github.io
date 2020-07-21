@@ -63,7 +63,7 @@ layout: index
   {% for reading in resources %}
    {% if reading %}
    {% if forloop.first == true %}
-   <p>Readings:</p>
+   <p>Readings: </p>
    {% endif %}
    <a href="{{reading.link}}" target="_blank">{{reading.title}}</a>, 
    {% endif %}
