@@ -78,7 +78,7 @@ layout: index
    {% if forloop.first == true %}
   <p>Tools:</p>
    {% endif %}
-   <a href="{{tool.link}}" target="_blank">{{tool.title}}</a>, 
+   <a href="{{tool.link}}" >{{tool.title}}</a>, 
    {% endif %}
 {% endfor %}
 <br><br>
